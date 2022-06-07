@@ -33,7 +33,10 @@ Days late: _0_ X 10% penalty per day: _0_
   - For example, consider ways to spiff up the UI.  Add an image, use some fancy UI framework/add-in, etc.
 
   - What, specifically, did you do extra?  
-##### This section must be completed to earn points for doing something extra.  _______________________________________________________________________________
+    - Added a css file to style content
+    - Added paragraph text to start.html
+    - Added live CircleCI badge to README
+##### This section must be completed to earn points for doing something extra.  ____________________________________________________________________________
 
 [x] IntelliJ Installed and working.  .gitignore is properly configured.  **10/10** 
 
